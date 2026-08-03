@@ -1,7 +1,7 @@
 function Projects(){
     return(
         <div>
-            <h1>xxxx</h1>
+            <h1>My projects</h1>
         </div>
     )
 }

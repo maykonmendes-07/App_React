@@ -12,10 +12,10 @@ function NavBar() {
             <Link to="/"><img src={logo} alt="logo" /></Link>
           </li>
           <li className={styles.item}><Link to="/">Home</Link></li>
-          <li className={styles.item}><Link to="/Company">Empresa</Link></li>
-          <li className={styles.item}><Link to="/Contact">Contato</Link></li>
+          <li className={styles.item}><Link to="/Company">Empresa</Link></li>          
           <li className={styles.item}><Link to="/Newproject">Novo Projeto</Link></li>
-          <li className={styles.item}><Link to="/projects">Meus Projetos</Link></li>
+          <li className={styles.item}><Link to="/projects">Projetos</Link></li>
+          <li className={styles.item}><Link to="/Contact">Contato</Link></li>
         </ul>
       </Container>
     </nav>

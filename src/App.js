@@ -3,10 +3,11 @@ import Home from './components/pages/Home'
 import Company from './components/pages/Company'
 import Contact from './components/pages/Contacts'
 import Newproject from './components/pages/Newproject'
+
 import Container from './components/Layout/Container'
 import NavBar from './components/Layout/NavBar'
 import Footer from './components/Layout/Footer'
-import Projects from './components/Layout/Projects'
+import Projects from './components/pages/Projects'
 
 
 function App() {

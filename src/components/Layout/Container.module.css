@@ -6,7 +6,10 @@
     flex-wrap: wrap;
 }
 .minheight{
-    min-height: 75vh;
+    min-height: 100vh;
+    flex-direction:column;
+    display:flex;
+    
     
 }
 .start{
