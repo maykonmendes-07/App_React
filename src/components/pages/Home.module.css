@@ -10,20 +10,25 @@
 .home_container h1{
     font-size: 3em;
     margin-bottom: .2.5em;
+     margin:8px;
 }
 .home_container h1 span{
     color:white;
     padding:0 .2em;
     background-color: #222;
-    border-radius: 30px;
+    border-radius: 10px;
+    box-shadow: 4px 7px 26px black
+    
+   
 }
 .home_container h1 span:hover{
     color: #ffbb33;
     padding:0 .2em;
     background-color: #222;
+    
 }
 .home_container p{
-    margin-bottom: 1.5em;
+    margin-bottom: 2em;
     color: #7b7b7b;
 
 }
