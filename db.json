@@ -1,16 +1,7 @@
 {
-  "projects": [
-    {
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "name": "Teste",
-      "budget": "10",
-      "cost": 0,
-      "services": [],
-      "id": "biLOq82UEFQ"
-    }
+  "projects": [{
+    
+  }
   ],
   "categories": [
     {
