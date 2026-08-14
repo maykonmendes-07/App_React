@@ -5,3 +5,13 @@
     flex-direction: column;
 
 }
+.project_container {
+  display: flex;
+  flex-wrap: wrap;       /* Permite que os cards quebrem para a próxima linha */
+  justify-content: flex-start; /* Alinha os cards no início */
+  gap: 20px;            /* Cria um espaçamento uniforme entre os cards */
+  width: 100%;          /* Garante que o container use toda a largura disponível */
+  max-width: 1200px;    /* Define um limite máximo elegante para telas muito grandes */
+  margin: 0 auto;       /* Centraliza o bloco inteiro na tela */
+  padding: 2em;
+}
